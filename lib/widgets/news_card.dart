@@ -49,7 +49,6 @@ class ItemCard extends StatelessWidget {
               ),
             );
           } else if (item.name == "Logout") {
-            // TODO: Ganti URL dengan URL app Django kamu
             // Untuk Android emulator: http://10.0.2.2:8000/auth/logout/
             // Untuk Chrome: http://localhost:8000/auth/logout/
 
